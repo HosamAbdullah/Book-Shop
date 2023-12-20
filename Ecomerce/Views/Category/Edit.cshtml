@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "Edit";
+}
+@model Category
+<div class="border-0 card shadow my-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Edit Category</h2>
+            </div>
+        </div>
+    </div>
+<div class="card-body p-4">
+<form asp-action="Edit">
+ 
+        <div class="mb-3 row p-1">
+            <label class="p-0">Category Name</label>
+            <input type="text" class="form-control" asp-for="@Model.Name" />
+            <span class="text-danger" asp-validation-for="@Model.Name"></span>
+        </div>
+        <div class="mb-3 row p-1">
+            <label class="p-0">Display Order</label>
+            <input type="text" asp-for="@Model.DisplayOrder" class="form-control" />
+            <span class="text-danger" asp-validation-for="@Model.DisplayOrder"></span>
+        </div>
+        <div class="row">
+            <div class="col-6 col-md-3">
+                <button type="submit" class="btn btn-primary form-control">Update</button>
+            </div>
+            <div class="col-6 col-md-3">
+                <a asp-controller="Category" asp-action="index" class="btn btn-secondary border form-control">
+                    Back to List
+                </a>
+
+            </div>
+        </div>
+
+      </form>
+    </div>
+</div>
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial.cshtml" />
+    }
+}
+

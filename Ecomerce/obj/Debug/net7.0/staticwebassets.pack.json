@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ecomerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ecomerce.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\Images\\089bff25-23f0-4b1b-aece-102bd946ed0fvanish in the sunset.jpg",
+      "PackagePath": "staticwebassets\\Images\\089bff25-23f0-4b1b-aece-102bd946ed0fvanish in the sunset.jpg"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\Images\\2dac968d-bdf6-4eff-86f1-903eb22012eerock in the ocean.jpg",
+      "PackagePath": "staticwebassets\\Images\\2dac968d-bdf6-4eff-86f1-903eb22012eerock in the ocean.jpg"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\Images\\3fd5efd9-7e4a-4b17-a2a7-65d483712b4cheader.jpg",
+      "PackagePath": "staticwebassets\\Images\\3fd5efd9-7e4a-4b17-a2a7-65d483712b4cheader.jpg"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\Images\\43d82f33-e36e-4a57-acb0-881e04c0658ddeep learning.jpg",
+      "PackagePath": "staticwebassets\\Images\\43d82f33-e36e-4a57-acb0-881e04c0658ddeep learning.jpg"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\Images\\4e01fff6-5dcc-4290-8fdb-bb6ed8540132leaves and wonders.jpg",
+      "PackagePath": "staticwebassets\\Images\\4e01fff6-5dcc-4290-8fdb-bb6ed8540132leaves and wonders.jpg"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\Images\\8c80946c-463a-4695-a90b-77997e6e121edark skies.jpg",
+      "PackagePath": "staticwebassets\\Images\\8c80946c-463a-4695-a90b-77997e6e121edark skies.jpg"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\Images\\92405068-d46e-4b20-b4ec-6c720522bff3fortune of time.jpg",
+      "PackagePath": "staticwebassets\\Images\\92405068-d46e-4b20-b4ec-6c720522bff3fortune of time.jpg"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\Images\\a12e952e-bbf6-4813-bb2a-107933e69409cotton candy.jpg",
+      "PackagePath": "staticwebassets\\Images\\a12e952e-bbf6-4813-bb2a-107933e69409cotton candy.jpg"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\Images\\b34a82d8-2418-4cfb-ad5c-7721f1aa3609data analysis.jpg",
+      "PackagePath": "staticwebassets\\Images\\b34a82d8-2418-4cfb-ad5c-7721f1aa3609data analysis.jpg"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\Images\\cf11cc30-fc6e-4704-863b-f949f7a940a9deep learning.jpg",
+      "PackagePath": "staticwebassets\\Images\\cf11cc30-fc6e-4704-863b-f949f7a940a9deep learning.jpg"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\iti hosam\\MVC\\project2\\Ecomerce\\Ecomerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Ecomerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Ecomerce.props",
+      "PackagePath": "build\\Ecomerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecomerce.props",
+      "PackagePath": "buildMultiTargeting\\Ecomerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Ecomerce.props",
+      "PackagePath": "buildTransitive\\Ecomerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

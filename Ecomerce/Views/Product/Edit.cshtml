@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "Edit";
+    SelectList CatOptions = new SelectList(ViewBag.Categories, "Id", "Name");
+}.
+@model ProductViewModel
+
+<div class="border-0 card shadow my-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Edit Product</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div class="row">
+                <div class="col-10">
+                    <input type="text" hidden class="form-control border-0 shadow" asp-for="@Model.ImageName" />
+                    <div class="mb-3 row p-1">
+                        <label class="p-0">Title</label>
+                        <input type="text" class="form-control border-0 shadow" asp-for="@Model.Title" />
+                        <span class="text-danger" asp-validation-for="@Model.Title"></span>
+                    </div>
+                    <div class="mb-3 row p-1">
+                        <label class="p-0">Description</label>
+                        <input type="text" asp-for="@Model.Description" class="form-control border-0 shadow" />
+                        <span class="text-danger" asp-validation-for="@Model.Description"></span>
+                    </div>
+                    <div class="mb-3 row p-1">
+                        <label class="p-0">Author</label>
+                        <input type="text" asp-for="@Model.Author" class="form-control border-0 shadow" />
+                        <span class="text-danger" asp-validation-for="@Model.Author"></span>
+                    </div>
+                    <div class="mb-3 row p-1">
+                        <label class="p-0">ISBN</label>
+                        <input type="text" asp-for="@Model.ISBN" class="form-control border-0 shadow" />
+                        <span class="text-danger" asp-validation-for="@Model.ISBN"></span>
+                    </div>
+                    <div class="mb-3 row p-1">
+                        <label class="p-0">List Price</label>
+                        <input type="text" asp-for="@Model.ListPrice" class="form-control border-0 shadow" />
+                        <span class="text-danger" asp-validation-for="@Model.ListPrice"></span>
+                    </div>
+                    <div class="mb-3 row p-1">
+                        <label class="p-0">Price</label>
+                        <input type="text" asp-for="@Model.Price" class="form-control border-0 shadow" />
+                        <span class="text-danger" asp-validation-for="@Model.Price"></span>
+                    </div>
+                    <div class="mb-3 row p-1">
+                        <label class="p-0">Price50</label>
+                        <input type="text" asp-for="@Model.Price50" class="form-control border-0 shadow" />
+                        <span class="text-danger" asp-validation-for="@Model.Price50"></span>
+                    </div>
+                    <div class="mb-3 row p-1">
+                        <label class="p-0">Price100</label>
+                        <input type="text" asp-for="@Model.Price100" class="form-control border-0 shadow" />
+                        <span class="text-danger" asp-validation-for="@Model.Price100"></span>
+                    </div>
+                    <div class="mb-3 row p-1">
+                        <label class="p-0">Image</label>
+                        <input type="file" asp-for="@Model.ImgUrl" class="form-control border-0 shadow" />
+                    </div>
+                    <div class="mb-3 row p-1">
+                        <label>Category name</label>
+                        <select class="form-control border-0 shadow" asp-for="categoryId" asp-items="CatOptions">
+                            <option value="0">--Select Category--</option>
+                        </select>
+                    </div>
+                    <div class="row mb-4 mt-5">
+                        <div class="col-6 col-md-3">
+                            <button type="submit" class="btn btn-primary form-control">Update</button>
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <a asp-action="index" class="btn btn-secondary border form-control">
+                                Back to List
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-2">
+                    <img src="~/Images/@Model.ImageName" alt="Image" height="150px" width="100%" style="border-radius:5px;border:1px solid #bbb9b9">
+                </div>
+            </div>                      
+        </form>
+    </div>
+</div>
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial.cshtml" />
+    }
+}
+

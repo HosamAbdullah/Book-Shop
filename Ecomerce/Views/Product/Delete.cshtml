@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Delete";
+}.
+@model Product
+
+<div class="border-0 card shadow my-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Delete Product</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form asp-action="Delete">
+            <div class="mb-3 row p-1">
+                <label class="p-0">Title</label>
+                <input type="text" class="form-control border-0 shadow"readonly asp-for="@Model.Title" />
+            </div>
+            <div class="mb-3 row p-1">
+                <label class="p-0">Description</label>
+                <input type="text" asp-for="@Model.Description" readonly class="form-control border-0 shadow" />
+            </div>
+            <div class="mb-3 row p-1">
+                <label class="p-0">Author</label>
+                <input type="text" asp-for="@Model.Author" readonly class="form-control border-0 shadow" />
+            </div>
+            <div class="mb-3 row p-1">
+                <label class="p-0">ISBN</label>
+                <input type="text" asp-for="@Model.ISBN" readonly class="form-control border-0 shadow" />
+            </div>
+            <div class="mb-3 row p-1">
+                <label class="p-0">List Price</label>
+                <input type="text" asp-for="@Model.ListPrice" readonly class="form-control border-0 shadow" />
+            </div>
+            <div class="mb-3 row p-1">
+                <label class="p-0">Price</label>
+                <input type="text" asp-for="@Model.Price" readonly class="form-control border-0 shadow" />
+            </div>
+            <div class="mb-3 row p-1">
+                <label class="p-0">Price50</label>
+                <input type="text" asp-for="@Model.Price50" readonly class="form-control border-0 shadow" />
+            </div>
+            <div class="mb-3 row p-1">
+                <label class="p-0">Price100</label>
+                <input type="text" asp-for="@Model.Price100" readonly class="form-control border-0 shadow" />
+            </div>
+            <div class="mb-3 row p-1">
+                <label>Category name</label>
+                <input type="text" asp-for="@Model.category.Name" readonly class="form-control border-0 shadow" />
+
+            </div>
+            <div class="row mb-4 mt-5">
+                <div class="col-6 col-md-3">
+                    <button type="submit" class="btn btn-primary form-control">Delete</button>
+                </div>
+                <div class="col-6 col-md-3">
+                    <a asp-action="index" class="btn btn-secondary border form-control">
+                        Back to List
+                    </a>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial.cshtml" />
+    }
+}
+
+
